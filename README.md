@@ -75,10 +75,13 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
       <h3 align="center">Magic Eden NFT Sniper</h3>
       <p align="center">
         <a href="https://github.com/Rarity-Surf/ME-sniper-frontend">
-          <img src="https://img.shields.io/badge/-Frontend-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Frontend"/>
+          <img src="https://img.shields.io/badge/-Frontend-6C63FF?style=for-the-badge&logo=react&logoColor=white" alt="Frontend"/>
         </a>
         <a href="https://github.com/Rarity-Surf/ME-sniper-backend">
-          <img src="https://img.shields.io/badge/-Backend-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Backend"/>
+          <img src="https://img.shields.io/badge/-Backend-6C63FF?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend"/>
+        </a>
+        <a href="https://github.com/Rarity-Surf/ME-sniper-discord-bot">
+          <img src="https://img.shields.io/badge/-Discord%20Bot-6C63FF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot"/>
         </a>
       </p>
       <p align="center">Full-stack app with real-time Discord alerts to find and snipe rare NFT deals (top 0.5%) before competitors</p>
@@ -119,30 +122,19 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">rarity-surf</h3>
-      <p align="center">
-        <a href="https://github.com/Kevin-Mok/rarity-surf">
-          <img src="https://img.shields.io/badge/-View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </p>
-      <p align="center">Django/React app identifying valuable NFT deals before competitors</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%">
+    <td colspan="2">
       <h3 align="center">spotify-lib-vis</h3>
       <p align="center">
         <a href="https://github.com/Kevin-Mok/spotify-lib-vis">
           <img src="https://img.shields.io/badge/-View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
-      <p align="center">Data visualization dashboard for Spotify library analytics</p>
+      <p align="center">Data visualization dashboard for Spotify library analytics with interactive charts</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat&logo=spotify&logoColor=white" />
       </p>
     </td>
   </tr>
