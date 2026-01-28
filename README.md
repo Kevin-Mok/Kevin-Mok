@@ -81,11 +81,12 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
           <img src="https://img.shields.io/badge/-Backend-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Backend"/>
         </a>
       </p>
-      <p align="center">Full-stack app to find and snipe rare NFT deals (top 0.5%) before competing buyers on Magic Eden</p>
+      <p align="center">Full-stack app with real-time Discord alerts to find and snipe rare NFT deals (top 0.5%) before competitors</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
       </p>
     </td>
   </tr>
