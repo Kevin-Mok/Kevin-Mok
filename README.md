@@ -51,12 +51,15 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevin-Mok&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Mok&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" height="165" />
+  <img src="https://img.shields.io/badge/3,500+-Contributions-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/8-Years%20Active-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/60+-Public%20Repos-6C63FF?style=for-the-badge" />
 </p>
+
+<p align="center"><em>Shipping code consistently since 2017</em></p>
 
 ### Contribution Graph
 
