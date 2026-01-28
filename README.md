@@ -20,18 +20,6 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
 
 ---
 
-### Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
-
-<p align="center"><em>Always leveling up - currently exploring the modern full-stack TypeScript ecosystem!</em></p>
-
----
-
 ### Tech Stack
 
 <p align="center">
