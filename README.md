@@ -17,7 +17,7 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
 - Passionate about **React**, **TypeScript**, and modern web architecture
 - Hackathon enthusiast - won **2nd place at UofT Hacks X**
 - Big believer in open source - maintaining **60+ public repos**
-- When I'm not coding, you'll find me tweaking my [dev environment](https://github.com/Kevin-Mok/linux-config) to perfection
+- When I'm not coding, you'll find me tweaking my dev environment to perfection
 
 ---
 
@@ -59,16 +59,6 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Mok&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Mok&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</p>
-
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kevin-Mok&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
-
 ### Contribution Graph
 
 <p align="center">
@@ -80,6 +70,25 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
 ### Featured Projects
 
 <table>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">Magic Eden NFT Sniper</h3>
+      <p align="center">
+        <a href="https://github.com/Rarity-Surf/ME-sniper-frontend">
+          <img src="https://img.shields.io/badge/-Frontend-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Frontend"/>
+        </a>
+        <a href="https://github.com/Rarity-Surf/ME-sniper-backend">
+          <img src="https://img.shields.io/badge/-Backend-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Backend"/>
+        </a>
+      </p>
+      <p align="center">Full-stack app to find and snipe rare NFT deals (top 0.5%) before competing buyers on Magic Eden</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">astronofty</h3>
@@ -105,34 +114,6 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">linux-config</h3>
-      <p align="center">
-        <a href="https://github.com/Kevin-Mok/linux-config">
-          <img src="https://img.shields.io/badge/-View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </p>
-      <p align="center">My dotfiles: i3, Neovim, tmux, fish, pywal with chezmoi</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
-        <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">terraform-deploys</h3>
-      <p align="center">
-        <a href="https://github.com/Kevin-Mok/terraform-deploys">
-          <img src="https://img.shields.io/badge/-View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </p>
-      <p align="center">Infrastructure-as-code for AWS EC2 and containerized deployments</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
       </p>
     </td>
   </tr>
