@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Kevin+%F0%9F%91%8B;Full+Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js;Building+cool+stuff+in+Toronto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Kevin+%F0%9F%91%8B;Full+Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js;Building+cool+stuff+in+Toronto" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -42,9 +42,9 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/3,500+-Contributions-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/8-Years%20Active-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/60+-Public%20Repos-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3,500+-Contributions-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/8-Years%20Active-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/60+-Public%20Repos-3B82F6?style=for-the-badge" />
 </p>
 
 <p align="center"><em>Shipping code consistently since 2017</em></p>
@@ -52,7 +52,7 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevin-Mok&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevin-Mok&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -65,13 +65,13 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
       <h3 align="center">Magic Eden NFT Sniper</h3>
       <p align="center">
         <a href="https://github.com/Rarity-Surf/ME-sniper-frontend">
-          <img src="https://img.shields.io/badge/-Frontend-6C63FF?style=for-the-badge&logo=react&logoColor=white" alt="Frontend"/>
+          <img src="https://img.shields.io/badge/-Frontend-3B82F6?style=for-the-badge&logo=react&logoColor=white" alt="Frontend"/>
         </a>
         <a href="https://github.com/Rarity-Surf/ME-sniper-backend">
-          <img src="https://img.shields.io/badge/-Backend-6C63FF?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend"/>
+          <img src="https://img.shields.io/badge/-Backend-3B82F6?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend"/>
         </a>
         <a href="https://github.com/Rarity-Surf/ME-sniper-discord-bot">
-          <img src="https://img.shields.io/badge/-Discord%20Bot-6C63FF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot"/>
+          <img src="https://img.shields.io/badge/-Discord%20Bot-3B82F6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot"/>
         </a>
       </p>
       <p align="center">Full-stack app with real-time Discord alerts to find and snipe rare NFT deals (top 0.5%) before competitors</p>
@@ -88,7 +88,7 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
       <h3 align="center">astronofty</h3>
       <p align="center">
         <a href="https://github.com/Kevin-Mok/astronofty">
-          <img src="https://img.shields.io/badge/-View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+          <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
       <p align="center">NFT marketplace for astrophotography<br><strong>2nd Place @ UofT Hacks X</strong></p>
@@ -101,7 +101,7 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
       <h3 align="center">kanban-calendar</h3>
       <p align="center">
         <a href="https://github.com/Kevin-Mok/kanban-calendar">
-          <img src="https://img.shields.io/badge/-View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+          <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
       <p align="center">Responsive calendar with draggable kanban events and smooth animations</p>
@@ -116,7 +116,7 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
       <h3 align="center">spotify-lib-vis</h3>
       <p align="center">
         <a href="https://github.com/Kevin-Mok/spotify-lib-vis">
-          <img src="https://img.shields.io/badge/-View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+          <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
       <p align="center">Data visualization dashboard for Spotify library analytics with interactive charts</p>
@@ -132,7 +132,7 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
 
 <p align="center">
   <a href="https://github.com/Kevin-Mok?tab=repositories">
-    <img src="https://img.shields.io/badge/-See%20All%20Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+    <img src="https://img.shields.io/badge/-See%20All%20Projects-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
   </a>
 </p>
 
@@ -213,7 +213,7 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
       </ul>
       <br>
       <a href="mailto:me@kevin-mok.com">
-        <img src="https://img.shields.io/badge/Let's%20Talk!-6C63FF?style=for-the-badge" alt="Contact Me"/>
+        <img src="https://img.shields.io/badge/Let's%20Talk!-3B82F6?style=for-the-badge" alt="Contact Me"/>
       </a>
     </td>
   </tr>
@@ -222,5 +222,5 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
 </p>
