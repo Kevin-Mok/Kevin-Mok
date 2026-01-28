@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/Kevin-Mok"><img src="https://img.shields.io/github/followers/Kevin-Mok?label=Followers&style=social" alt="GitHub followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=Kevin-Mok&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views">
   <a href="mailto:me@kevin-mok.com"><img src="https://img.shields.io/badge/Open%20to%20Work-Let's%20Chat!-success?style=flat" alt="Open to Work"></a>
 </p>
 
