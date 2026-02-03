@@ -184,6 +184,12 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://gist.github.com/Kevin-Mok/1652af7a7574c36abaf0ff7509756234">
+    <img src="https://img.shields.io/badge/-See%20All%2050%2B%20Contributions-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Full Contribution List"/>
+  </a>
+</p>
+
 ---
 
 ### Let's Connect!
