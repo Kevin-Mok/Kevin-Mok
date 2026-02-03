@@ -163,18 +163,25 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
   </tr>
 </table>
 
-**Key Achievements:**
-- Built developer tooling in **Go** that reduced deployment workflows from 45 min → 15 min (**66% faster**)
-- Designed automated config systems that eliminated **80%** of manual errors and improved DX
-- Implemented CI/CD pipelines for automated PR testing, reducing manual intervention by **60%**
-- Collaborated in **12-person Agile team** with sprint planning, code reviews, and cross-team coordination
-- Authored comprehensive docs and mentored incoming intern, cutting onboarding time by **50%**
+**Open Source Impact:**
+<p align="center">
+  <img src="https://img.shields.io/badge/50+-Merged%20PRs-EE0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/10-Repositories-EE0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/7,000+-Lines%20of%20Code-EE0000?style=for-the-badge" />
+</p>
+
+**Key Contributions:**
+- **[Founded kogito-helm-charts](https://github.com/kiegroup/kogito-helm-charts)** - Created entire Helm charts repository from scratch with Prometheus, PostgreSQL, and Kafka integrations
+- **[Contributed to prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)** - 3 PRs to CNCF project with 8,800+ stars
+- **[Added Kubernetes startup probes](https://github.com/kiegroup/kogito-operator/pull/826)** - 724-line feature preventing premature container restarts
+- **[Fixed critical deployment stability bug](https://github.com/kiegroup/kogito-operator/pull/822)** - Eliminated constant reconciliation loops affecting production
+- **[Authored 472-line developer guide](https://github.com/kiegroup/kogito-operator/pull/875)** - Comprehensive onboarding docs for new Kogito operator contributors
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
 </p>
 
 ---
