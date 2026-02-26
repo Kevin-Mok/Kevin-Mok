@@ -61,40 +61,43 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
 
 <table>
   <tr>
-    <td colspan="2">
-      <h3 align="center">Magic Eden NFT Sniper</h3>
+    <td width="50%">
+      <h3 align="center">Red Hat Open Source Contributions</h3>
       <p align="center">
-        <a href="https://github.com/Rarity-Surf/ME-sniper-frontend">
-          <img src="https://img.shields.io/badge/-Frontend-3B82F6?style=for-the-badge&logo=react&logoColor=white" alt="Frontend"/>
-        </a>
-        <a href="https://github.com/Rarity-Surf/ME-sniper-backend">
-          <img src="https://img.shields.io/badge/-Backend-3B82F6?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend"/>
-        </a>
-        <a href="https://github.com/Rarity-Surf/ME-sniper-discord-bot">
-          <img src="https://img.shields.io/badge/-Discord%20Bot-3B82F6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot"/>
+        <a href="https://gist.github.com/Kevin-Mok/1652af7a7574c36abaf0ff7509756234">
+          <img src="https://img.shields.io/badge/-View%20Gist-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Gist"/>
         </a>
       </p>
-      <p align="center">Full-stack app with real-time Discord alerts to find and snipe rare NFT deals (top 0.5%) before competitors</p>
+      <p align="center">Open-source contribution portfolio from my Red Hat Software Engineer internship: 50+ merged PRs across cloud-native repos.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white" />
+        <img src="https://img.shields.io/badge/Open%20Source-3B82F6?style=flat&logo=github&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">nomar-stocks</h3>
+      <p align="center">
+        <a href="https://github.com/Kevin-Mok/nomar-stocks">
+          <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+      <p align="center">Hiring a junior web developer? I freelanced this responsive Next.js + TypeScript project and I'm actively looking for my first full-time web dev role.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">astronofty</h3>
+      <h3 align="center">portfolio-site</h3>
       <p align="center">
-        <a href="https://github.com/Kevin-Mok/astronofty">
+        <a href="https://github.com/Kevin-Mok/portfolio-site">
           <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
-      <p align="center">NFT marketplace for astrophotography<br><strong>2nd Place @ UofT Hacks X</strong></p>
+      <p align="center">Personal portfolio site built with Next.js 15 + TypeScript + Tailwind. Showcases projects, resume variants, and production-minded frontend engineering.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       </p>
     </td>
     <td width="50%">
@@ -104,27 +107,35 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
           <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
-      <p align="center">Responsive calendar with draggable kanban events and smooth animations</p>
+      <p align="center">Responsive kanban-style calendar app with draggable events, swipe navigation, and smooth Framer Motion transitions built with Next.js 15, React 19, and TypeScript.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
       </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%">
+      <h3 align="center">Rarity-Surf/ME-sniper-backend</h3>
+      <p align="center">
+        <a href="https://github.com/Rarity-Surf/ME-sniper-backend">
+          <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+      <p align="center">TypeScript/Node + Express backend powering me-sniper rarity ranking and marketplace listing intelligence.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">spotify-lib-vis</h3>
       <p align="center">
         <a href="https://github.com/Kevin-Mok/spotify-lib-vis">
           <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
-      <p align="center">Data visualization dashboard for Spotify library analytics with interactive charts</p>
+      <p align="center">Full-stack Spotify analytics app with OAuth2 auth, PostgreSQL storage, and rich D3 visualizations.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat&logo=spotify&logoColor=white" />
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
       </p>
     </td>
   </tr>
