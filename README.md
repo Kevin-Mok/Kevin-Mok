@@ -127,9 +127,9 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">spotify-lib-vis</h3>
+      <h3 align="center">spotify-library-visualizer</h3>
       <p align="center">
-        <a href="https://github.com/Kevin-Mok/spotify-lib-vis">
+        <a href="https://github.com/Kevin-Mok/spotify-library-visualizer">
           <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
