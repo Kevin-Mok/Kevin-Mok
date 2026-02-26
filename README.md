@@ -115,13 +115,13 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Rarity-Surf/ME-sniper-backend</h3>
+      <h3 align="center">nft-rarity-sniper-backend</h3>
       <p align="center">
-        <a href="https://github.com/Rarity-Surf/ME-sniper-backend">
+        <a href="https://github.com/Rarity-Surf/nft-rarity-sniper-backend">
           <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
-      <p align="center">TypeScript/Node + Express backend powering me-sniper rarity ranking and marketplace listing intelligence.</p>
+      <p align="center">TypeScript/Node + Express backend powering NFT rarity ranking and marketplace listing intelligence.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       </p>
