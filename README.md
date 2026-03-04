@@ -75,9 +75,9 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">nomar-stocks</h3>
+      <h3 align="center">Trading Club Membership Site</h3>
       <p align="center">
-        <a href="https://github.com/Kevin-Mok/nomar-stocks">
+        <a href="https://github.com/Kevin-Mok/nomar-trading-club-membership-site">
           <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
@@ -89,9 +89,9 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">portfolio-site</h3>
+      <h3 align="center">Next.js 15 Portfolio</h3>
       <p align="center">
-        <a href="https://github.com/Kevin-Mok/portfolio-site">
+        <a href="https://github.com/Kevin-Mok/nextjs15-portfolio-showcase">
           <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
@@ -101,9 +101,9 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">kanban-calendar</h3>
+      <h3 align="center">Drag & Drop Kanban Scheduler</h3>
       <p align="center">
-        <a href="https://github.com/Kevin-Mok/kanban-calendar">
+        <a href="https://github.com/Kevin-Mok/drag-drop-kanban-scheduler">
           <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
@@ -115,7 +115,7 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">nft-rarity-sniper-backend</h3>
+      <h3 align="center">NFT Rarity Sniper Backend</h3>
       <p align="center">
         <a href="https://github.com/Rarity-Surf/nft-rarity-sniper-backend">
           <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
@@ -127,9 +127,9 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">spotify-library-visualizer</h3>
+      <h3 align="center">Spotify Intelligence Dashboard</h3>
       <p align="center">
-        <a href="https://github.com/Kevin-Mok/spotify-library-visualizer">
+        <a href="https://github.com/Kevin-Mok/spotify-library-intelligence-dashboard">
           <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
