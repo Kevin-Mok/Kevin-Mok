@@ -4,19 +4,31 @@
 
 <p align="center">
   <a href="https://github.com/Kevin-Mok"><img src="https://img.shields.io/github/followers/Kevin-Mok?label=Followers&style=social" alt="GitHub followers"></a>
-  <a href="mailto:me@kevin-mok.com"><img src="https://img.shields.io/badge/Open%20to%20Work-Let's%20Chat!-success?style=flat" alt="Open to Work"></a>
+  <a href="https://www.upwork.com/freelancers/kevinmok"><img src="https://img.shields.io/badge/Hire%20Me-Upwork-14A800?style=flat&logo=upwork&logoColor=white" alt="Hire me on Upwork"></a>
+  <a href="mailto:me@kevin-mok.com"><img src="https://img.shields.io/badge/Email-Let's%20Chat!-success?style=flat" alt="Email Kevin"></a>
 </p>
 
 ---
 
 ### About Me
 
-I'm a **Full Stack Developer** who loves building polished, user-focused web applications. From pixel-perfect frontends to scalable backends, I enjoy crafting seamless experiences that users actually want to use.
+I'm a **Full Stack Web Developer** who builds frontend-heavy products that launch fast, load fast, and stay reliable in production. Strongest in **Next.js**, **React**, and **TypeScript**, I ship polished interfaces, backend integrations, and deployment-ready systems for client work and personal products.
 
-- Passionate about **React**, **TypeScript**, and modern web architecture
+- Available for **freelance web/app work** on [Upwork](https://www.upwork.com/freelancers/kevinmok)
+- Shipped multiple **Next.js** products, including a freelance membership site, a Next.js 15 portfolio, and an interactive scheduler
+- Comfortable owning **frontend UX, backend integrations, SEO, and deployment** end to end
 - Hackathon enthusiast - won **2nd place at UofT Hacks X**
 - Big believer in open source - maintaining **60+ public repos**
-- When I'm not coding, you'll find me tweaking my dev environment to perfection
+
+### Hire Me
+
+If you need someone who can own the frontend, wire the backend, and ship reliable web apps with clear communication and fast iteration, hire me on Upwork.
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/kevinmok">
+    <img src="https://img.shields.io/badge/Hire%20Me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork"/>
+  </a>
+</p>
 
 ---
 
@@ -81,7 +93,7 @@ I'm a **Full Stack Developer** who loves building polished, user-focused web app
           <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
-      <p align="center">Hiring a junior web developer? I freelanced this responsive Next.js + TypeScript project and I'm actively looking for my first full-time web dev role.</p>
+      <p align="center">Freelance Next.js + TypeScript membership platform with responsive UX, client-facing delivery, and production-minded frontend implementation.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       </p>
