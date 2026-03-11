@@ -64,7 +64,7 @@ If you need someone who can own the frontend, wire the backend, and ship reliabl
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevin-Mok&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true" alt="Contribution Graph" />
+  <img src="assets/contribution-graph-2026.svg" alt="Contribution Graph since January 1, 2026" />
 </p>
 
 ---
